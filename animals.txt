@@ -1,5 +1,1 @@
-lion red
-lion green
-tiger
-leopard
-turtle
+lleó, tigre

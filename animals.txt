@@ -1,3 +1,4 @@
+lion red
 lion green
 tiger
 leopard
